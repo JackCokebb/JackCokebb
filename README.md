@@ -6,6 +6,7 @@
 <p align="left">
   <a href="https://instagram.com/hyunwhogavejee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hyunwhogavejee" height="30" width="40" /></a>
   <a href="https://JackCokebb.slack.com/team/U02SV76DGLU" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="Slack" height="30" width="40" /></a>
+  <a href="https://discord.gg/Alpaca#0050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alpaca #0050" height="30" width="40" /></a>
 </p>
 
 **📕 Check my blog too https://jackcokebb.tistory.com/**
