@@ -12,8 +12,10 @@
   <a href="https://discord.gg/Alpaca#0050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alpaca #0050" height="30" width="40" /></a>
 </p>
 
-**📕 Check my blog too https://jackcokebb.tistory.com/**
-
+<h3 align="left">📕 Check my blog too:</h3>
+<p align="left">
+https://jackcokebb.tistory.com/
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
