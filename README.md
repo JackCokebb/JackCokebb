@@ -8,7 +8,9 @@
   <a href="https://JackCokebb.slack.com/team/U02SV76DGLU" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="Slack" height="30" width="40" /></a>
 </p>
 
+
 **📕 Check my blog too https://jackcokebb.tistory.com/**
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
