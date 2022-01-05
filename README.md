@@ -5,6 +5,6 @@
 <a href="https://instagram.com/hyunwhogavejee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hyunwhogavejee" height="30" width="40" /></a>
 
 
-![JackCokebb GitHub stats](https://github-readme-stats.vercel.app/api?username=JackCokebb&show_icons=true&theme=radical)
+![JackCokebb GitHub stats](https://github-readme-stats.vercel.app/api?username=JackCokebb&show_icons=true&theme=swift)
 
 
