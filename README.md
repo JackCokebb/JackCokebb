@@ -11,6 +11,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
   <a href="https://en.cppreference.com/w/c/language" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" alt="c language" width="40" height="40"/> </a>
   <a href="https://en.cppreference.com/w/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg" alt="c++ language" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -22,6 +23,8 @@
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/docker.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/kubernetes.svg" alt="kubernetes" width="40" height="40"/> </a>
   <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/ko/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="40" height="40"/> </a>
 
 
 
